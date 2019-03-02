@@ -1,0 +1,46 @@
+body{
+    font-family:"Trebuchet MS";
+    text-align:center;
+    min-width: 300px;
+  }
+  #main{
+    margin:25px auto;
+    padding: 20px;
+    border:0px solid;
+    border-radius:10px;
+    background:#eeeeee;
+  }
+  img{
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: auto;
+  }
+  #img-div{
+    margin:-5px;
+    margin-top:20px;
+    width:100%;
+    border:5px solid white;
+    background:white;
+    border-radius: 10px;
+  }
+  #img-caption{
+    margin:20px;
+    font-style: italic;
+    font-size: smaller;
+  }
+
+  ul{
+    max-width:550px;
+    margin:auto;
+    text-align:left;
+  }
+
+  li{
+    margin: 15px;
+  }
+
+  blockquote{
+    font-style: italic;
+  }
+
